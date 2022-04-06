@@ -1,5 +1,7 @@
 # Arduino core for the ESP32, ESP32-S2, ESP32-S3 and ESP32-C3
 
+* 本工程copy过来的，用来导入私库使用，github上面导入太慢了。
+
 ![Build Status](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg) [![Documentation Status](https://readthedocs.com/projects/espressif-arduino-esp32/badge/?version=latest)](https://docs.espressif.com/projects/arduino-esp32/en/latest/?badge=latest)
 
 ### Need help or have a question? Join the chat at [![https://gitter.im/espressif/arduino-esp32](https://badges.gitter.im/espressif/arduino-esp32.svg)](https://gitter.im/espressif/arduino-esp32?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
